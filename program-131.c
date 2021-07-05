@@ -1,4 +1,4 @@
-//find out an big number form an array...form user input
+//find out an big number form an array...form user by input
 #include <stdio.h>
 int main(){
     int x[5];
@@ -17,4 +17,5 @@ int main(){
     printf("Max value of array: %d", max_value);
     return 0;
 }
+
 
